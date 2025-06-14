@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/ALL DSA PROGS/Graph Progs",
       "program": "c:/ALL DSA PROGS/Graph Progs/build/Debug/outDebug",
+=======
+      "cwd": "c:/ALL DSA PROGS/All LinkedList Progs",
+      "program": "c:/ALL DSA PROGS/All LinkedList Progs/build/Debug/outDebug",
+>>>>>>> 0aa4036c8db3e592eae4f92742dd5ac803b000e7
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
